@@ -1,0 +1,13 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç BEEB-D915
+
+ Pasta de C:\Users\jeuri\Projects\MyFirstDjango\MyFirstDjango\tests
+
+02/04/2017  13:03    <DIR>          .
+02/04/2017  13:03    <DIR>          ..
+02/04/2017  13:03                21 Test1Renomeado.py
+02/04/2017  12:19                 0 Test2Renomeado.py
+02/04/2017  12:19                 0 Test3Renomeado.py
+02/04/2017  13:00                 0 TesteUndo.txt
+               4 arquivo(s)             21 bytes
+               2 pasta(s)   55.513.772.032 bytes dispon°veis
